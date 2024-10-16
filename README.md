@@ -22,7 +22,7 @@
 ### 1. Clone the Repository
 To start, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/laragigs.git
+git clone https://github.com/Ahmedmaghrapy11/laragigs.git
 cd laragigs
 ```
 
